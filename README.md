@@ -16,7 +16,7 @@ Track customer purchase behavior (ship mode, payment mode).
 Provide a management-ready visualization to support decision-making.
 
 ## Dataset
-Superstore Sales dataset (Excel/CSV)
+Superstore Sales dataset (Excel/CSV) 
 
 ## Dashboard Features
 

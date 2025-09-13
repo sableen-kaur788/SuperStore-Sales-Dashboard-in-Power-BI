@@ -17,6 +17,7 @@ Provide a management-ready visualization to support decision-making.
 
 ## Dataset
 Superstore Sales dataset (Excel/CSV) 
+
 https://github.com/sableen-kaur788/SuperStore-Sales-Dashboard-in-Power-BI/blob/main/SuperStore_Sales_Dataset%20(1).csv
 
 ## Dashboard Features

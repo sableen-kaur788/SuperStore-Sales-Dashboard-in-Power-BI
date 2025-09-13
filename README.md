@@ -1,4 +1,4 @@
-# Super Store Power BI Dashboard
+# SuperStore Sales Power BI Dashboard
 ## Project Description
 A dynamic Power BI dashboard template to analyze Superstore sales data. 
 Visualize sales performance across regions, product categories, and payment modes with interactive charts, trend analysis, and key business metrics.

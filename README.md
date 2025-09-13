@@ -20,45 +20,45 @@ Superstore Sales dataset (Excel/CSV)
 
 ## Dashboard Features
 
-Sales by Ship Mode
+# Sales by Ship Mode
 
 Breakdown of sales across different delivery modes (Standard, Second Class, First Class, Same Day).
 
 Helps analyze customer preference and delivery efficiency.
 
-Profit by Month & Year
+# Profit by Month & Year
 
 Line chart showing profit trends for 2019 & 2020.
 
 Identifies seasonality and fluctuations in profits.
 
-Sales by Segment
+# Sales by Segment
 
 Donut chart of sales contribution from Consumer, Corporate, and Home Office segments.
 
-Sales by Payment Mode
+# Sales by Payment Mode
 
 Distribution of sales by Cards, COD, and Online payments.
 
-Sales by Month & Year
+# Sales by Month & Year
 
 Area chart showing sales growth trends across months in multiple years.
 
-Sales by Quantity
+# Sales by Quantity
 
 Line chart tracking order quantities to monitor sales volume.
 
-Sales & Profit by State (Map)
+# Sales & Profit by State (Map)
 
 Geographic visualization of sales and profit performance across U.S. states.
 
-Sales by Category & Subcategory
+# Sales by Category & Subcategory
 
 Horizontal bar charts showing top-performing categories (Furniture, Technology, Office Supplies).
 
 Subcategory analysis for items like Chairs, Binders, Phones, etc.
 
-KPIs (Cards)
+# KPIs (Cards)
 
 Total Sales: 341K
 
